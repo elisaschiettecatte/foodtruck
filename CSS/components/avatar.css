@@ -1,0 +1,9 @@
+.avatar { 
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	color: white;
+	font-size: bold;
+	box-shadow: 10px 10px 10px rgba( 0,0,0,0.4)
+	
+ }
